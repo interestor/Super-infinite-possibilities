@@ -7,6 +7,7 @@
 ![20250321163029](https://github.com/user-attachments/assets/6f023bc1-f981-4577-aecd-750943a97347)
 
 ![20250321162934](https://github.com/user-attachments/assets/e610b340-4079-42ac-adf7-3d153d4a3144)
+
 上記画像は前バージョンのため現在の基板とは異なります
 
 ## 特徴
